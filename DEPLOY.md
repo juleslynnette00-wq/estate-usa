@@ -133,7 +133,7 @@ When the push completes, refresh your repo page on GitHub — you should see all
 
 | Key | Value |
 |-----|-------|
-| `NEXT_PUBLIC_WEB3FORMS_ACCESS_KEY` | (paste the UUID you got from web3forms.com in Step 1) |
+| `88055bcd-375a-4c65-a833-378601351ab2` | (paste the UUID you got from web3forms.com in Step 1) |
 
 > The `NEXT_PUBLIC_` prefix is required — Next.js only exposes env vars to the browser if they start with that prefix. Without it, your form would silently fall back to demo mode.
 
